@@ -1,4 +1,4 @@
-# Peixes-Stardew-Valley
+# 🎣 Peixes-Stardew-Valley
 ### Alunos:
 Bruno Rezende dos Santos\
 Julia Godoy Matos\
