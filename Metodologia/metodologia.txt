@@ -9,7 +9,7 @@ O projeto será dividido em ciclos curtos. Isso nos permite ter uma versão func
 Stardew Valley possui muitas variáveis (clima, fusos horários, condições especiais). Se percebermos que a coleta de dados está mais complexa que o esperado, o Scrum nos permite redefinir prioridades no Backlog sem travar o desenvolvimento.
 
 3. FOCO NO VALOR PARA O USUÁRIO
-Através das Daily Meetings (mesmo que rápidas entre nós), garantimos que os requisitos mais importantes — como saber onde pescar o peixe agora — sejam priorizados em relação a perfumarias visuais.
+Através das Daily Meetings (mesmo que rápidas entre nós), garantimos que os requisitos mais importantes — como saber onde pescar o peixe agora.
 
 4. INSPEÇÃO CONSTANTE
 Ao final de cada etapa, revisamos o que foi feito. Isso evita que erros na base de dados dos peixes se acumulem até o final do projeto, facilitando a correção imediata.
