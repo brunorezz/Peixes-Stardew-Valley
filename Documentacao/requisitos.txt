@@ -7,7 +7,7 @@ Criar um guia digital para consulta de peixes por estação no jogo Stardew Vall
 2. REQUISITOS FUNCIONAIS
 - Seleção de Estação: O usuário deve poder escolher entre Primavera, Verão, Outono e Inverno.
 - Listagem de Peixes: Exibir nome, localização, horário e clima necessário.
-- Filtros: Opção de filtrar por tipo de água (rio, mar, lago).
+- Filtros: Opção de filtrar por tipo de água (rio, mar, lago e outros).
 - Visualização: Exibir se o peixe é usado em algum "Bundle" do Centro Comunitário.
 
 3. REQUISITOS NÃO FUNCIONAIS
