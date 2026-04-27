@@ -1,0 +1,21 @@
+PROJETO: GUIA DE PESCA STARDEW VALLEY
+CRONOGRAMA DE DESENVOLVIMENTO
+
+ETAPA 1: PLANEJAMENTO
+- Definição das ferramentas (Linguagem/Framework).
+- Estruturação da base de dados dos peixes.
+
+ETAPA 2: DESENVOLVIMENTO DA LÓGICA
+- Criação das funções de filtragem por estação.
+- Implementação dos filtros de clima e horário.
+
+ETAPA 3: INTERFACE E DESIGN
+- Montagem da interface visual.
+- Exibição organizada dos dados.
+
+ETAPA 4: TESTES E AJUSTES
+- Verificação de dados incorretos.
+- Correção de bugs e refinamento visual.
+
+ETAPA 5: ENTREGA
+- Finalização dos arquivos e documentação básica.
