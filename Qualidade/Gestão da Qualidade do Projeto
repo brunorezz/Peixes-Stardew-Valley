@@ -1,0 +1,7 @@
+A gestão da qualidade do projeto tem como objetivo garantir que o software desenvolvido atenda aos requisitos definidos, funcionando corretamente e oferecendo uma experiência satisfatória aos usuários. Para isso, foram definidos padrões de qualidade relacionados tanto ao funcionamento técnico do sistema quanto à organização do código e da interface gráfica.
+
+Durante o desenvolvimento do sistema “Peixes Stardew Valley”, foram adotadas práticas de revisão periódica do código, validação das funcionalidades implementadas e organização estrutural dos arquivos do projeto. Essas medidas ajudam a reduzir falhas e aumentam a confiabilidade da aplicação. Como exemplo prático, sempre que uma nova funcionalidade de filtro é adicionada, são realizados testes para verificar se ela não interfere negativamente nas demais funções já existentes.
+
+Outro ponto importante da gestão da qualidade foi a preocupação com a usabilidade da aplicação. O sistema foi desenvolvido com uma interface simples e objetiva, permitindo que o usuário encontre facilmente as informações desejadas. Além disso, foram utilizados comentários no código-fonte e padronização na nomenclatura das variáveis, facilitando o entendimento por outros desenvolvedores que possam participar futuramente da manutenção do sistema.
+
+A utilização do versionamento por GitHub também faz parte do controle de qualidade, pois permite registrar cada atualização realizada, possibilitando retornar versões anteriores caso algum erro seja identificado após alterações recentes.
