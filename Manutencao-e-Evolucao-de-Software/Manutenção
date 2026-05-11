@@ -1,0 +1,7 @@
+O planejamento da manutenção foi desenvolvido com o objetivo de garantir que o sistema possa continuar funcionando corretamente mesmo após sua entrega, permitindo correções de erros, atualizações e futuras melhorias. Em projetos de software, a manutenção é essencial para aumentar a vida útil da aplicação e acompanhar possíveis mudanças tecnológicas ou necessidades dos usuários.
+
+No projeto “Peixes Stardew Valley”, foram previstas diferentes modalidades de manutenção. A manutenção corretiva será aplicada em situações onde forem identificados erros ou falhas no funcionamento do sistema. Como exemplo prático, caso algum peixe apareça vinculado à estação incorreta ou alguma imagem deixe de carregar corretamente, será realizada a correção diretamente no código e nos dados armazenados.
+
+Também foi planejada a manutenção evolutiva, voltada à implementação de novas funcionalidades e melhorias no sistema. Entre as possibilidades futuras estão a inclusão de novos filtros de pesquisa, adaptação para dispositivos móveis e expansão do conteúdo para outros elementos do jogo, como plantações, minérios e receitas culinárias.
+
+Além disso, foi considerada a necessidade de manutenção preventiva, realizando revisões periódicas no código-fonte para evitar problemas futuros relacionados à organização estrutural ou desempenho da aplicação. Essas práticas contribuem para manter o sistema estável, atualizado e preparado para futuras expansões.
