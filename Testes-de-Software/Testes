@@ -1,0 +1,7 @@
+O planejamento dos testes de software foi elaborado com o objetivo de verificar se todas as funcionalidades do sistema operam corretamente antes da entrega final do projeto. Os testes são fundamentais para identificar erros, falhas de desempenho ou problemas de compatibilidade que possam comprometer a experiência do usuário.
+
+No sistema “Peixes Stardew Valley”, foram definidos diferentes tipos de testes para validar o funcionamento da aplicação. Entre eles, destacam-se os testes funcionais, responsáveis por verificar se os filtros de pesquisa apresentam os resultados corretos conforme os critérios selecionados pelo usuário. Como exemplo prático, ao selecionar a estação “Verão”, o sistema deve exibir apenas os peixes disponíveis durante essa estação do jogo.
+
+Também foram realizados testes de interface, analisando se os botões, menus e áreas de navegação funcionam corretamente em diferentes resoluções de tela. Essa etapa é importante para garantir acessibilidade e facilidade de utilização. Além disso, testes de desempenho foram considerados para verificar o tempo de carregamento das informações e imagens dos peixes presentes no sistema.
+
+Outro aspecto importante envolve os testes de compatibilidade entre navegadores, assegurando que o software funcione corretamente em plataformas como Google Chrome, Microsoft Edge e Mozilla Firefox. Dessa forma, busca-se garantir estabilidade e funcionamento adequado independentemente do ambiente utilizado pelo usuário.
